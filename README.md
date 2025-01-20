@@ -1,5 +1,4 @@
 ## Hi I'm Leo and I can hardly code!
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my A-Level NEA (wish me luck!)
 - 🌱 I’m currently learning Python!
